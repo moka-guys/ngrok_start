@@ -20,3 +20,4 @@ Dockerised ngrok:
 
 The script will output the ngrok connection details
 
+*N.B. this script used to reside in the [workstation_housekeeping](https://github.com/moka-guys/workstation_housekeeping) repository
