@@ -1,6 +1,6 @@
 ## ngrok_start.sh
 
-Allow SSH access to the system by running ngrok as a background process. As of v1.11 supports dockerised ngrok instance.
+Allow SSH access to the system by running ngrok as a background process. Supports dockerised ngrok instance.
 
 ### Installation
 
